@@ -4,5 +4,5 @@ This repository contains solutions to the **LeetCode SQL 50** problems. Each sol
 
 ## 📂 Structure
 - Each problem has its own SQL file.
-- Solutions follow standard SQL syntax compatible with most databases.
+- Solutions follow  MYSQL syntax compatible with most databases.
 
